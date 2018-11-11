@@ -1,9 +1,10 @@
-# Notas:
+# Notes:
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
+Udemy Node cero a experto
 
-Recuerden que deben de reconstruir los módulos de node con el comando
+Section 16: Chat app using sockets
 
+Use the command
 ```
 npm install
 ```
