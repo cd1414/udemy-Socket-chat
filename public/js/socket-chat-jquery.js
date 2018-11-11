@@ -100,6 +100,8 @@ divUsuarios.on('click', 'a', function() {
     }
 });
 
+
+
 formSend.on('submit', function(e) {
     e.preventDefault();
     if (txtMessage.val().trim().length === 0) {
